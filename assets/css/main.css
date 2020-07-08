@@ -1943,21 +1943,21 @@ input, select, textarea {
 					background: #7fb7d2;
 				}
 
-			.icon.circle.fa-facebook-f {
+			.icon.circle.fa-linkedin {
 				background: #7490c3;
 				color: #fff;
 			}
 
-				.icon.circle.fa-facebook-f:hover {
+				.icon.circle.fa-linkedin:hover {
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus-g {
+			.icon.circle.fa-envelope {
 				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-google-plus-g:hover {
+				.icon.circle.fa-envelope:hover {
 					background: #df7b77;
 				}
 

@@ -1879,7 +1879,14 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 			}
-
+.profile-photo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    border-radius: 10%;
+    padding: 20px;
+}
 /* Icon */
 
 	.icon {

@@ -1883,7 +1883,7 @@ input, select, textarea {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 350px;
+max-width: 350px;
     border-radius: 10%;
     padding: 20px;
 }

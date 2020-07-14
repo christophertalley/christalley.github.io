@@ -1895,6 +1895,14 @@ input, select, textarea {
 	margin-right: auto;
 	overflow-y: hidden;
 }
+#ezforms-demo {
+	display: block;
+	width: auto;
+	max-width: 675px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow-y: hidden;
+}
 /* Icon */
 
 	.icon {

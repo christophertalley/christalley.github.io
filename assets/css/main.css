@@ -1894,6 +1894,8 @@ input, select, textarea {
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;
+	border-radius: 15px;
+	object-fit: scale-down;
 }
 #ezforms-demo {
 	display: block;

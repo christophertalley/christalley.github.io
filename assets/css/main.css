@@ -1888,6 +1888,8 @@ input, select, textarea {
     padding: 20px;
 }
 #skills-photo {
+	height: auto;
+	width: auto;
 	max-width: 675px;
 	max-height: 250px;
 	margin-left: auto;

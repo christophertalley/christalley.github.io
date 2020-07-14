@@ -1890,7 +1890,7 @@ input, select, textarea {
 #skills-photo {
 	display: block;
 	width: auto;
-	max-width: 1000px;
+	max-width: 675px;
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;
@@ -1900,7 +1900,7 @@ input, select, textarea {
 #ezforms-demo {
 	display: block;
 	width: auto;
-	max-width: 675px;
+	max-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;

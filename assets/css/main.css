@@ -1897,6 +1897,15 @@ input, select, textarea {
 	border-radius: 15px;
 	margin-bottom: 15px;
 }
+#dischat-demo {
+	display: block;
+	width: auto;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow-y: hidden;
+	border-radius: 15px;
+}
 #ezforms-demo {
 	display: block;
 	width: auto;
@@ -1904,7 +1913,7 @@ input, select, textarea {
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;
-	border-radius: 20px;
+	border-radius: 15px;
 }
 #codelet-demo {
 	display: block;
@@ -1913,7 +1922,7 @@ input, select, textarea {
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;
-	border-radius: 20px;
+	border-radius: 15px;
 }
 /* Icon */
 

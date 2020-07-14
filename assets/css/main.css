@@ -1889,7 +1889,6 @@ input, select, textarea {
 }
 #skills-photo {
 	display: block;
-	height: auto;
 	width: auto;
 	max-width: 675px;
 	max-height: 250px;

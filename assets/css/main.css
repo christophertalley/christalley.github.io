@@ -1904,6 +1904,7 @@ input, select, textarea {
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;
+	border-radius: 20px;
 }
 #codelet-demo {
 	display: block;
@@ -1912,6 +1913,7 @@ input, select, textarea {
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;
+	border-radius: 20px;
 }
 /* Icon */
 

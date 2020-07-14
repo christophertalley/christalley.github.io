@@ -1891,7 +1891,6 @@ input, select, textarea {
 	display: block;
 	width: auto;
 	max-width: 675px;
-	max-height: 250px;
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;

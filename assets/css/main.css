@@ -1889,8 +1889,10 @@ input, select, textarea {
 }
 #skills-photo {
 	max-width: 670px;
+	max-height: 300px;
 	margin-left: auto;
 	margin-right: auto;
+	overflow-y: hidden;
 }
 /* Icon */
 

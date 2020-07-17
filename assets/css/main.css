@@ -1925,6 +1925,9 @@ input, select, textarea {
 	border-radius: 15px;
 }
 /* Icon */
+.skill-icon {
+	font-size: 3rem;
+}
 
 	.icon {
 		text-decoration: none;

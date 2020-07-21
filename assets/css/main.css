@@ -1982,12 +1982,12 @@ input, select, textarea {
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-reply {
+			.icon.circle.fa-envelope-open {
 				background: #70aecd;
 				color: #fff;
 			}
 
-				.icon.circle.fa-reply:hover {
+				.icon.circle.fa-envelope-open:hover {
 					background: #7fb7d2;
 				}
 

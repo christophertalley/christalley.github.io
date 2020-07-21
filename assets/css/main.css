@@ -181,7 +181,8 @@ input, select, textarea {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 600px;
+	width: 800px;
+	margin: 0 auto;
 }
 
 	.container {

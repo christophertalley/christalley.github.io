@@ -1891,7 +1891,7 @@ input, select, textarea {
 .demo-image-small {
 	display: block;
 	width: auto;
-	max-width: 600px;
+	max-width: 350px;
 	margin-left: auto;
 	margin-right: auto;
 	overflow-y: hidden;

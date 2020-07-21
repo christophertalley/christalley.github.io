@@ -2262,7 +2262,7 @@ input, select, textarea {
 		button.small,
 		.button.small {
 			font-size: 0.7em;
-			min-width: 14em;
+			min-width: 8em;
 			padding: 0.5em 0;
 		}
 

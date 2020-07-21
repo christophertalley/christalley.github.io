@@ -177,6 +177,9 @@ input, select, textarea {
 	}
 
 /* Container */
+#skills-icon-container{
+	width: 600px;
+}
 
 	.container {
 		margin: 0 auto;

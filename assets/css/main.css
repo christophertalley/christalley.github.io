@@ -1982,12 +1982,12 @@ input, select, textarea {
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-twitter {
+			.icon.circle.fa-reply {
 				background: #70aecd;
 				color: #fff;
 			}
 
-				.icon.circle.fa-twitter:hover {
+				.icon.circle.fa-reply:hover {
 					background: #7fb7d2;
 				}
 
@@ -2000,12 +2000,12 @@ input, select, textarea {
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-envelope {
+			.icon.circle.fa-angellist {
 				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-envelope:hover {
+				.icon.circle.fa-angellist:hover {
 					background: #df7b77;
 				}
 

@@ -1890,12 +1890,12 @@ input, select, textarea {
 			}
 .demo-image-small {
 	display: block;
-	width: auto;
-	height: auto;
+	width: 350px;
+	height: 200px;
 	max-width: 350px;
 	margin-left: auto;
 	margin-right: auto;
-	overflow-y: hidden;
+	overflow: hidden;
 	border-radius: 15px;
 }
 .profile-photo {

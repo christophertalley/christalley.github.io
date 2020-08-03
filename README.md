@@ -1,9 +1,13 @@
 # [Chris Talley, Software Engineer](https://christalley.dev/) 
 ### Welcome to my software development portfolio.
 
-The main reason for this site is to give a little info about me, and display my awesome projects!
+Visit https://christalley.dev/ to read more about me, my background, and why I could be a great fit for your team!
+***
 I can always be reached at:
-+1 (205) 901 - 2406, or by email at christopherr.talley@gmail.com.
+***
++1 (205) 901 - 2406, or by email at:
+***
+christopherr.talley@gmail.com.
 
 ## Projects
 - _[DisChat](https://dischat-application.herokuapp.com/)_ is a live messaging application inspired by Discord.

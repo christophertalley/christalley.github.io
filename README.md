@@ -1,4 +1,5 @@
-Welcome to my software development portfolio.
+# [Chris Talley, Software Engineer](https://christalley.dev/) 
+### Welcome to my software development portfolio.
 
 The main reason for this site is to give a little info about me, and display my awesome projects!
 I can always be reached at:

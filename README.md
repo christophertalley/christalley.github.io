@@ -3,11 +3,10 @@
 
 Visit https://christalley.dev/ to read more about me, my background, and why I could be a great fit for your team!
 ***
-I can always be reached at:
+I can always be reached at: +1 (205) 901 - 2406,
 ***
-+1 (205) 901 - 2406, or by email at:
+or by email at: christopherr.talley@gmail.com.
 ***
-christopherr.talley@gmail.com.
 
 ## Projects
 - _[DisChat](https://dischat-application.herokuapp.com/)_ is a live messaging application inspired by Discord.

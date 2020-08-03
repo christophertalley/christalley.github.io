@@ -3,9 +3,7 @@
 
 Visit https://christalley.dev/ to read more about me, my background, and why I could be a great fit for your team!
 ***
-I can always be reached at: +1 (205) 901 - 2406,
-***
-or by email at: christopherr.talley@gmail.com.
+I can always be reached at: +1 (205) 901 - 2406, or by email at: christopherr.talley@gmail.com.
 ***
 
 ## Projects
